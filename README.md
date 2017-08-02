@@ -5,7 +5,7 @@ API to add new product
 
 API to list all product  
 `/api/list/products/`  
-<a href="http://arpt123.pythonanywhere.com/api/list/product/" target="_blank">http://arpt123.pythonanywhere.com/api/list/product/</a>  
+<a href="http://arpt123.pythonanywhere.com/api/list/product/" target="_blank">http://arpt123.pythonanywhere.com/api/list/products/</a>  
 
 API to delete a product      
 `/api/delete/product/(?P<id>\d+)/`  
